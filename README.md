@@ -1,4 +1,4 @@
-Game opens in fullscreen with no optio to close. Use ALT+F4 to close game. 
+***Game opens in fullscreen with no optio to close. Use ALT+F4 to close game.***
 
 ERA Chapter 2 OUT NOW!!
 
