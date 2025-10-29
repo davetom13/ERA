@@ -22,9 +22,7 @@ Stock up on new rare resources...
 -------------------------------------------------------------
 Credits:
 -------------------------------------------------------------
-Sounds – Random objects in my room (and me)
-Sprites – PorousBird5034
-Code – PorousBird5034 
+Code, sounds, and sprites all by PorousBird5034.
 
 https://scratch.mit.edu/projects/1219496754
 -------------------------------------------------------------
