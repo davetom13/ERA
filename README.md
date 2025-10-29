@@ -17,3 +17,14 @@ v2.0 – Expanse | 10/26/2025
 New challenges await as your people begin to dream bigger...
 Explore places never explored before...
 Stock up on new rare resources...
+
+
+-------------------------------------------------------------
+Credits:
+-------------------------------------------------------------
+Sounds – Random objects in my room (and me)
+Sprites – PorousBird5034
+Code – PorousBird5034 
+
+https://scratch.mit.edu/projects/1219496754
+-------------------------------------------------------------
